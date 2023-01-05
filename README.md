@@ -224,7 +224,8 @@
             - VPC: Select `Prod-VPC`
             - Protocol version: `HTTP1`
             - Health checks: `HTTP`
-            - Health check path: `/`
+            - Health check path: `/`= /VenturaMailingApp.php
+
             - Click on `Next`
             - Click on `Create target group`
 
